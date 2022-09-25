@@ -13,7 +13,7 @@ FIRST OF ALL DISCLAIMERS: Use these material completely at your own risk. There 
 With that out of the way, let's get started!
 
 ## Installion
-To install this material, please go here.
+To install this material, please go [here](install/README.md).
 
 ## Going through the tutorials
 Now you are ready to go through the tutorials, please go to each subdirectory starting with 01, 02, etc, to do do.
