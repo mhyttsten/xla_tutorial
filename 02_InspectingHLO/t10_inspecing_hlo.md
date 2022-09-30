@@ -4,8 +4,8 @@ This tutorial shows you the output of code generation:
     export XLA_FLAGS=--xla_dump_to=NewDirectory
 
 - Run the previous tutorial 01_...<br>
-  Under NewDirectory you can now see a number of files starting with name:
-    module_0000.UniqueNameHere.number.
+  Under NewDirectory you can now see a number of files starting with name:<br>
+    module_0000.UniqueNameHere.number.<br>
   UniqueNameHere is the computation name we provided in t05 as argument to XlaBuilder
 
 - These files are generated as part of the compilation process to describe the
