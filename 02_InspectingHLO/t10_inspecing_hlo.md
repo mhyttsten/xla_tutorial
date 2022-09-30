@@ -1,10 +1,9 @@
 This tutorial shows you the output of code generation:
 
-- Set the following environment variable in your terminal window,
-  when running a program this will generation output debug files
+- Set the following environment variable in your terminal window (Unix/MacOS style), when running a program this will generation output debug files
     export XLA_FLAGS=--xla_dump_to=NewDirectory
 
-- Run the previous tutorial t05
+- Run the previous tutorial 01_...<br>
   Under NewDirectory you can now see a number of files starting with name:
     module_0000.UniqueNameHere.number.
   UniqueNameHere is the computation name we provided in t05 as argument to XlaBuilder
