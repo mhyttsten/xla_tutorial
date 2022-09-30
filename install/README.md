@@ -31,3 +31,4 @@ Now you should be able to execute the first tutorial. You don't need to understa
 
 Hopefully everything has gone well to this point.
 If so, you are now all setup and ready to learn everything about how XLA works!
+
