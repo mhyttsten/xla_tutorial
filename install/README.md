@@ -5,6 +5,7 @@ In general, you should install all components needed to build TensorFlow from so
 - C++ compiler toolchain
 - git
 - bazel
+
 But please refer to the full documentation (https://www.tensorflow.org/install/source) for completeness.
 
 ## Install TensorFlow source and checkout the 2.10 version
